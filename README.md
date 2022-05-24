@@ -1,2 +1,2 @@
 # EthereumCasts
-Companion repo to an Ethereum/Solidity course on Udemy
+Forked this repo for personal use. Getting started with this course on Udemy.
